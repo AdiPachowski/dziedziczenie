@@ -1,4 +1,5 @@
 package potwory;
+import potwory.Szkielet;
 
 public class Szkielet {
 

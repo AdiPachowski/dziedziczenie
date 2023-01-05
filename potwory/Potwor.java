@@ -1,5 +1,5 @@
 package potwory;
-
+import potwory.Potwor;
 
 public class Potwor {
 

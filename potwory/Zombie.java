@@ -1,5 +1,7 @@
 package potwory;
 
+import potwory.Zombie;
+
 public class Zombie {
 
     double fast;
